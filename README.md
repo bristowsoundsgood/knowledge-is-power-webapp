@@ -8,7 +8,7 @@ A bookstore webapp. The stack was MySQL / AWS RDS -> Java backend API -> React.j
 
 
 
-https://github.com/user-attachments/assets/cca74c0a-16a2-4796-925f-9138e45146b5
+https://github.com/user-attachments/assets/7f9a4930-4d95-4f9f-8f0c-54f3cba5362d
 
 
 https://github.com/user-attachments/assets/c4f3d950-6257-4d4d-96f2-51d037b56ac3
