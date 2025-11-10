@@ -7,6 +7,7 @@ This was a university project. The source code has been kept private to prevent 
 A bookstore webapp. The stack was MySQL / AWS RDS -> Java backend API -> React.js frontend consumer. The only material provided was a poor quality book database, with many columns violating first normal form. Development time was dedicated to addressing this.  
 
 
+## Previews
 https://github.com/user-attachments/assets/a52304f9-3437-46a0-ab76-de5bba20c5e8
 
 
