@@ -16,10 +16,6 @@ https://github.com/user-attachments/assets/c4f3d950-6257-4d4d-96f2-51d037b56ac3
 
 https://github.com/user-attachments/assets/a8371e1c-d5b0-460c-8803-784c53dddb5d
 
-<img width="1440" height="666" alt="client_error_example_3" src="https://github.com/user-attachments/assets/19f78abe-07b6-4d80-bcf1-244081efe088" />
-<img width="1436" height="665" alt="client_error_example_2" src="https://github.com/user-attachments/assets/13eba90c-3d24-421b-8dba-437bdc268335" />
-<img width="1438" height="617" alt="client_error_example_1" src="https://github.com/user-attachments/assets/0b06be2f-8a44-4ffc-b4c4-90318c5f27e2" />
-
 
 ## Features
 * Access control (user read-only, admin read + write).
