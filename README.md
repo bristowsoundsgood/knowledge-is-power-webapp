@@ -6,9 +6,14 @@ This was a university project. The source code has been kept private to prevent 
 ## Introduction
 A bookstore webapp. The stack was MySQL / AWS RDS -> Java backend API -> React.js frontend consumer. The only material provided was a poor quality book database, with many columns violating first normal form. Development time was dedicated to addressing this.  
 
+
+https://github.com/user-attachments/assets/74c2e044-c6b8-490c-9aa9-7b2b669450be
+
+
 ## Features
 * Access control (user read-only, admin read + write).
 * Full CRUD support for 3 data formats: JSON, XML, String.
+* Book covers (via. Google Books API).
 * Browse by genre, search term.
 * Pagination.
 
