@@ -1,6 +1,6 @@
 # knowledge-is-power
 
-## Note
+## Note
 This was a university project. The source code has been kept private to prevent future students using the work for plaigarism. Potential employers can request the codebase by emailing me: joesambristow@gmail.com. 
 
 ## Introduction
