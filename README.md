@@ -8,7 +8,7 @@ A bookstore webapp. The stack was MySQL / AWS RDS -> Java backend API -> React.j
 
 ## Features
 * Access control (user read-only, admin read + write).
-* CRUD support for JSON, XML, String data formats.
+* Full CRUD support for 3 data formats: JSON, XML, String.
 * Browse by genre, search term.
 * Pagination.
 
