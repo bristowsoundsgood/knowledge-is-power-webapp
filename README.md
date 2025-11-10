@@ -1,4 +1,4 @@
-# knowledge-is-power
+# Knowledge is Power Bookstore
 
 ## Note
 This was a university project. The source code has been kept private to prevent future students using the work for plaigarism. Interested parties can request the codebase by emailing me: joesambristow@gmail.com. 
