@@ -13,6 +13,7 @@ https://github.com/user-attachments/assets/74c2e044-c6b8-490c-9aa9-7b2b669450be
 ## Features
 * Access control (user read-only, admin read + write).
 * Full CRUD support for 3 data formats: JSON, XML, String.
+* Full foreign character support via. UTF-8.
 * Book covers (via. Google Books API).
 * Browse by genre, title, or author.
 * Pagination.
