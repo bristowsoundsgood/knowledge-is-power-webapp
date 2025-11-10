@@ -13,6 +13,9 @@ https://github.com/user-attachments/assets/a52304f9-3437-46a0-ab76-de5bba20c5e8
 https://github.com/user-attachments/assets/c4f3d950-6257-4d4d-96f2-51d037b56ac3
 
 
+https://github.com/user-attachments/assets/a8371e1c-d5b0-460c-8803-784c53dddb5d
+
+
 ## Features
 * Access control (user read-only, admin read + write).
 * Full CRUD support for 3 data formats: JSON, XML, String.
