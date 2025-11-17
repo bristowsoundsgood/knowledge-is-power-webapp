@@ -4,7 +4,7 @@
 This was a university project. The source code has been kept private to prevent future students using the work for plaigarism. Interested parties can request the codebase by emailing me: joesambristow@gmail.com. 
 
 ## Introduction
-A bookstore webapp. The stack was MySQL / AWS RDS -> Java backend API -> React.js frontend consumer. The only material provided was a poor quality book database, with many columns violating first normal form. Development time was dedicated to addressing this.  
+A bookstore webapp. The stack was MySQL / AWS RDS -> Java backend API -> React.js frontend. The only material provided for the assessment was a poor quality book database, with many columns violating first normal form. Development time was dedicated to addressing this.  
 
 
 ## Previews
